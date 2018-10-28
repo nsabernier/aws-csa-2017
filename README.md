@@ -555,6 +555,8 @@ Using Access Key ID and Secret Access Key – can be used only via accessing pro
   - You can clear cached objects, with charges.
 
   - Origin domain name – either S3 bucket, ELB or on premise domain
+  
+  - type of objects: All files served over HTTP; dynamic web pages, HTML or PHP pages, any sttic files Image, audio, media files, software download. Live on demand media streaming over HTTP.
 
 ### CloudFront Security.
 
