@@ -558,6 +558,8 @@ Using Access Key ID and Secret Access Key – can be used only via accessing pro
   
   - type of objects: All files served over HTTP; dynamic web pages, HTML or PHP pages, any sttic files Image, audio, media files, software download. Live on demand media streaming over HTTP.
 
+  - Field-level encryption: securly upload user-submitted data such as credit card numbers to origin servers. Can be decrypted only by services that owns the private key.
+  
 ### CloudFront Security.
 
   - You can force them to use CDN URL instead of S3 DNS
