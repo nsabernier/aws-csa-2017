@@ -522,6 +522,12 @@ Using Access Key ID and Secret Access Key – can be used only via accessing pro
 
   - You can also permanently delete objects.
 
+## S3 Pricing
+
+  - Based on Storage used + Network Transfer IN and Out + Data Request (#Get/#Put/#Delete) see FAQ
+  
+  - Requester pay bucket consists in having requester to pay for the usage of the data in the bucket and not the account that owns the bucket.
+
 ## CloudFront CDN Overview
 
 ### Important terms
